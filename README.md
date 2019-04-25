@@ -1,6 +1,6 @@
 # hello-word
-projecto practica
+Projecto práctica
 
-Hola Gente
+Hola Gente.
 
 Voy a intentar aprender algo nuevo.
